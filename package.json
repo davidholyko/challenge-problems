@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/davidholyko/challenge-problems/issues"
   },
-  "homepage": "https://github.com/davidholyko/challenge-problems#readme"
+  "homepage": "https://github.com/davidholyko/challenge-problems#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }

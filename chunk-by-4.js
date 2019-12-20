@@ -12,3 +12,7 @@ const output = chunk(items);
 //  [4,5,6,7]
 //  [5,6,7,8]
 // ]
+
+/*
+    BONUS: complete in O(N) time complexity
+*/
