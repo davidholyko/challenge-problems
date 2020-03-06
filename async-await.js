@@ -20,3 +20,8 @@ const myPromise = new Promise(function(resolve, reject) {
 myPromise // chain
   .then(() => {})
   .catch(() => {});
+
+// 4.
+// let's say we have an array of 1000 promise
+// Write code that will run all of the promises concurrently and
+// then separately write code that will chain the next promise to the end of the previous
