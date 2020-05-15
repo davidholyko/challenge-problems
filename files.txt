@@ -7,6 +7,7 @@
 ./chunk-by-4.js
 ./chart-conversion.js
 ./move-to-end.js
+./squash-overlapping-intervals.js
 ./pick-randomly-once.js
 ./callback.js
 ./bubble-sort.js
@@ -23,3 +24,4 @@
 ./class.js
 ./async-await.js
 ./largest-gap.js
+./maximum-orders-filled.js
